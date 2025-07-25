@@ -1,2 +1,3 @@
 # Lexicon_GitAndGithub
-# Lexicon_GitAndGithub
+
+Här gör jag ett väldigt viktigt tillägg, som vanligt när det gäller mig...
